@@ -1,0 +1,26 @@
+{
+  "name": "Test",
+  "description": "Test",
+  "version": "0.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+   "discord.js": "^11.3.2",
+    "discord.js-musicbot-addon": "^1.10.3",
+    "ascii-data-table":"2.1.1",
+    "array-sort": "1.0.0",
+    "get-youtube-id": "^1.0.0",
+    "figlet":"1.2.0",
+    "google-it":"1.1.1",
+    "node-opus": "^0.2.7",
+    "opusscript": "0.0.6",
+    "python": "0.0.4",
+    "youtube-info": "^1.2.0",
+    "ytdl-core": "^0.20.2",
+     "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "simple-youtube-api": "^5.0.2"
+  }
+}

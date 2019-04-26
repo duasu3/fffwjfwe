@@ -18,7 +18,7 @@ client.on("message", async message => {
 
 if (command === `${prefix}join`) {
         message.member.voiceChannel.join()
-    message.channel.send('Okey, joined your voice channel.')
+    message.channel.send('')
 };
 
 });
